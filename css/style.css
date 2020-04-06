@@ -1,0 +1,31 @@
+h1{
+    font-size: 150px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+   
+}
+
+h2{
+    float: right;
+    color: white;
+ 
+    
+}
+.ttext{
+    font-size: 65px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   
+}
+p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 2px;
+    padding-top: 200px;
+}
